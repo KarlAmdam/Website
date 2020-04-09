@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  img {
+    image-orientation: from-image;
+}
+
+ul {
+  list-style-type: none;   
+   padding-top: 10px;
+
+}
+
+
+li{
+    display: inline;
+padding: 10px;
+  }
